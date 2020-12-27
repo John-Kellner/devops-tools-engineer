@@ -19,7 +19,7 @@ Description: Candidates should be able to build, share and operate Docker contai
 * Upload images to a Docker registry
 * Operate and access Docker containers
 * Connect container to Docker networks
-* Use Docker volumes for shared and persistent container storage
+* Use Docker volumes for shared and persistent container storage<br>
 **The following is a partial list of the used files, terms and utilities:**
 
 ```
