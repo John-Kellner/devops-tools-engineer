@@ -2,7 +2,7 @@
 
 Dev Ops Tools Engineer - Learning Path - If someone interested in Learing DEV OPS Tools Engineer you might be found some article's here.
 We Try to cover and practice some of the most important topics. The official Site is from https://www.lpi.org/our-certifications/exam-701-objectives
-there you'll find the roadmap. Step by Step we try to contiunue some of the topics as Tutorials. 
+there you'll find the roadmap. Step by Step we try to continue some of the topics as Tutorials. 
 
 ### 702.2 Container Deployment and Orchestration (weight: 5)
 Weight: 5
@@ -19,10 +19,11 @@ Description: Candidates should be able to run and manage multiple containers tha
 * Define and manage a container-based application for Kubernetes, including the definition of Deployments, Services, ReplicaSets and Pods <br>
 **The following is a partial list of the used files, terms and utilities:**
 
+```
 docker-compose
 docker
 kubectl
-
+```
 
 ### 702.3 Container Infrastructure (weight: 4)
 Weight: 4
@@ -43,4 +44,6 @@ Description: Candidates should be able to set up a runtime environment for conta
 
 **The following is a partial list of the used files, terms and utilities:**
 
+```
 docker-machine
+```
