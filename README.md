@@ -2,7 +2,7 @@
 
 Dev Ops Tools Engineer - Learning Path - If someone interested in Learing DEV OPS Tools Engineer you might be found some article's here.
 We Try to cover and practice some of the most important topics. The official Site is from https://www.lpi.org/our-certifications/exam-701-objectives
-there you'll find the roadmap. Step by Step we try to continue some of the topics as Tutorials. 
+there you'll find the roadmap. LPI DevOps Tools Engineer is a hands on certificate. Step by Step we try to continue some of the topics as Tutorials. 
 
 ### 702.2 Container Deployment and Orchestration (weight: 5)
 **Weight**: 5
