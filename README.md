@@ -5,7 +5,7 @@ We Try to cover and practice some of the most important topics. The official Sit
 there you'll find the roadmap. Step by Step we try to continue some of the topics as Tutorials. 
 
 ### 702.2 Container Deployment and Orchestration (weight: 5)
-Weight: 5
+**Weight**: 5
 
 Description: Candidates should be able to run and manage multiple containers that work together to provide a service. This includes the orchestration of Docker containers using Docker Compose in conjunction with an existing Docker Swarm cluster as well as using an existing Kubernetes cluster. This objective covers the feature sets of Docker Compose version 1.14 or later, Docker Swarm included in Docker 17.06 or later and Kubernetes 1.6 or later.
 
@@ -26,7 +26,7 @@ kubectl
 ```
 
 ### 702.3 Container Infrastructure (weight: 4)
-Weight: 4
+**Weight**: 4
 
 Description: Candidates should be able to set up a runtime environment for containers. This includes running containers on a local workstation as well as setting up a dedicated container host. Furthermore, candidates should be aware of other container infrastructures, storage, networking and container specific security aspects. This objective covers the feature set of Docker version 17.06 or later and Docker Machine 0.12 or later.
 
