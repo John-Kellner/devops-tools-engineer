@@ -1,6 +1,7 @@
 # devops-tools-engineer
-Dev Ops Tools Engineer Learning Path 
-
+Dev Ops Tools Engineer Learning Path - If someone interested in Learing DEV OPS Tools Engineer you might be found some article's here.
+We Try to cover and practice some of the most important topics. The official Site is from https://www.lpi.org/our-certifications/exam-701-objectives
+there you'll find the roadmap. Step by Step we try to contiunue some of the topics as Tutorials. 
 
 ### 702.3 Container Infrastructure (weight: 4)
 Weight: 4
@@ -9,7 +10,7 @@ Description: Candidates should be able to set up a runtime environment for conta
 
 ### Key Knowledge Areas:
 
-* Use Docker Machine to setup a Docker host
+* [Use Docker Machine to setup a Docker host](https://ametras-vision-team.medium.com/use-docker-machine-to-setup-a-docker-host-d7219a110237)
 * Understand Docker networking concepts, including overlay networks
 * Create and manage Docker networks
 * Understand Docker storage concepts
