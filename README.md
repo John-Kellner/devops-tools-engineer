@@ -4,6 +4,30 @@ Dev Ops Tools Engineer - Learning Path - If someone interested in Learing DEV OP
 We Try to cover and practice some of the most important topics. The official Site is from https://www.lpi.org/our-certifications/exam-701-objectives
 there you'll find the roadmap. LPI DevOps Tools Engineer is a hands on certificate. Step by Step we try to continue some of the topics as Tutorials. 
 
+
+### Topic 702: Container Management
+702.1 Container Usage (weight: 7)
+**Weight**: 7
+
+Description: Candidates should be able to build, share and operate Docker containers. This includes creating Dockerfiles, using a Docker registry, creating and interacting with containers as well as connecting containers to networks and storage volumes. This objective covers the feature set of Docker version 17.06 or later.
+
+Key Knowledge Areas:
+
+* Understand the Docker architecture
+* Use existing Docker images from a Docker registry
+* Create Dockerfiles and build images from Dockerfiles
+* Upload images to a Docker registry
+* Operate and access Docker containers
+* Connect container to Docker networks
+* Use Docker volumes for shared and persistent container storage
+**The following is a partial list of the used files, terms and utilities:**
+
+```
+docker
+Dockerfile
+.dockerignore
+```
+
 ### 702.2 Container Deployment and Orchestration (weight: 5)
 **Weight**: 5
 
