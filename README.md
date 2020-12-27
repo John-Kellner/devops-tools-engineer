@@ -16,7 +16,7 @@ Description: Candidates should be able to run and manage multiple containers tha
 * Understand the architecture and functionality of Docker Swarm mode
 * Run containers in a Docker Swarm, including the definition of services, stacks and the usage of secrets
 * Understand the architecture and application model Kubernetes
-* Define and manage a container-based application for Kubernetes, including the definition of Deployments, Services, ReplicaSets and Pods
+* Define and manage a container-based application for Kubernetes, including the definition of Deployments, Services, ReplicaSets and Pods <br>
 **The following is a partial list of the used files, terms and utilities:**
 
 docker-compose
