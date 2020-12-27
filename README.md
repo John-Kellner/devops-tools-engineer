@@ -3,6 +3,26 @@ Dev Ops Tools Engineer Learning Path - If someone interested in Learing DEV OPS 
 We Try to cover and practice some of the most important topics. The official Site is from https://www.lpi.org/our-certifications/exam-701-objectives
 there you'll find the roadmap. Step by Step we try to contiunue some of the topics as Tutorials. 
 
+### 702.2 Container Deployment and Orchestration (weight: 5)
+Weight: 5
+
+Description: Candidates should be able to run and manage multiple containers that work together to provide a service. This includes the orchestration of Docker containers using Docker Compose in conjunction with an existing Docker Swarm cluster as well as using an existing Kubernetes cluster. This objective covers the feature sets of Docker Compose version 1.14 or later, Docker Swarm included in Docker 17.06 or later and Kubernetes 1.6 or later.
+
+### Key Knowledge Areas:
+
+* [Understand the application model of Docker Compose](https://ametras-vision-team.medium.com/summary-understand-the-application-model-of-docker-compose-part-1-caddaf267376)
+* Create and run Docker Compose Files (version 3 or later)
+* Understand the architecture and functionality of Docker Swarm mode
+* Run containers in a Docker Swarm, including the definition of services, stacks and the usage of secrets
+* Understand the architecture and application model Kubernetes
+* Define and manage a container-based application for Kubernetes, including the definition of Deployments, Services, ReplicaSets and Pods
+**The following is a partial list of the used files, terms and utilities:
+
+docker-compose
+docker
+kubectl
+
+
 ### 702.3 Container Infrastructure (weight: 4)
 Weight: 4
 
