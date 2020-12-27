@@ -6,12 +6,12 @@ there you'll find the roadmap. LPI DevOps Tools Engineer is a hands on certifica
 
 
 ### Topic 702: Container Management
-702.1 Container Usage (weight: 7)
+702.1 Container Usage (weight: 7)<br>
 **Weight**: 7
 
 Description: Candidates should be able to build, share and operate Docker containers. This includes creating Dockerfiles, using a Docker registry, creating and interacting with containers as well as connecting containers to networks and storage volumes. This objective covers the feature set of Docker version 17.06 or later.
 
-Key Knowledge Areas:
+### Key Knowledge Areas:
 
 * Understand the Docker architecture
 * Use existing Docker images from a Docker registry
