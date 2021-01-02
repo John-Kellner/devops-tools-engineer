@@ -52,8 +52,6 @@ docker
 kubectl
 ```
 
-### Kommetn from  Alexey 
-
 ### 702.3 Container Infrastructure (weight: 4)
 **Weight**: 4
 
