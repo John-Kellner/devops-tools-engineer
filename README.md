@@ -15,9 +15,9 @@ Description: Candidates should be able to build, share and operate Docker contai
 ### Key Knowledge Areas:
 
 * Understand the Docker architecture
-* Use existing Docker images from a Docker registry
-* Create Dockerfiles and build images from Dockerfiles
-* Upload images to a Docker registry
+* [Use existing Docker images from a Docker registry](https://ametras-vision-team.medium.com/upload-images-to-a-docker-registry-369247e45f09)
+* [Create Dockerfiles and build images from Dockerfiles](https://ametras-vision-team.medium.com/upload-images-to-a-docker-registry-369247e45f09)
+* [Upload images to a Docker registry](https://ametras-vision-team.medium.com/upload-images-to-a-docker-registry-369247e45f09)
 * Operate and access Docker containers
 * Connect container to Docker networks
 * Use Docker volumes for shared and persistent container storage<br>
